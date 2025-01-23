@@ -1,55 +1,94 @@
-# Sturge Weber Syndrome
-
-**Disease Overview:**
-Sturge-Weber Syndrome (SWS) is a rare, congenital disorder characterized by a facial birthmark (port-wine stain) and neurological abnormalities due to abnormal blood vessels in the brain.
-
-**Disease Category:**
-Neurological and Vascular Disease
-
-**Synonyms:**
-- Encephalotrigeminal Angiomatosis
-- Sturge-Weber Disease
-
-**Signs & Symptoms:**
-- Port-wine stain (nevus flammeus) on the face, usually affecting one side
-- Seizures
-- Developmental delays
-- Glaucoma
-- Headaches
-- Hemiparesis (weakness on one side of the body)
-- Intellectual disability
-
-**Causes:**
-SWS is caused by somatic mutations in the GNAQ gene. This mutation is not inherited but occurs randomly during early development.
-
-**Affected Populations:**
-SWS affects males and females equally and can occur in any ethnic group. The incidence is approximately 1 in 20,000 to 1 in 50,000 newborns.
-
-**Disorders with Similar Symptoms:**
-- Klippel-Trenaunay Syndrome
-- Parkes Weber Syndrome
-- Other forms of facial vascular malformations
-- Other neurocutaneous syndromes
-
-**Diagnosis:**
-Diagnosis is primarily clinical, based on the presence of facial port-wine stains and neurological symptoms. Imaging studies such as MRI and CT scans can reveal brain abnormalities. Ophthalmological examinations are important for detecting glaucoma.
-
-**Standard Therapies:**
-- **Medical Treatment:** Anticonvulsant medication for seizures
-- **Laser Treatment:** Pulsed dye laser for port-wine birthmarks
-- **Surgery:** Procedures for glaucoma and rare surgical interventions for neurological symptoms
-- **Supportive Care:** Physical therapy, occupational therapy, and educational support
-
-**Clinical Trials and Studies:**
-Clinical trials for Sturge-Weber Syndrome can be located at ClinicalTrials.gov. Current studies focus on novel therapeutic approaches and the genetic understanding of SWS.
-
-**References:**
-- Online Mendelian Inheritance in Man (OMIM)
-- National Institutes of Health – Genetic and Rare Diseases Information Center (GARD)
-- Sturge-Weber Foundation
-
-**Programs & Resources:**
-- Sturge-Weber Foundation offers support, education, and advocacy for affected individuals and their families.
-
-**Complete Report:**
-Information not available
+# Sturge Weber Syndrome
+
+### Disease Overview
+Sturge-Weber Syndrome (SWS) is a rare, congenital neurocutaneous disorder characterized by a distinctive facial port-wine birthmark and neurological abnormalities caused by abnormal blood vessel development in the brain and surrounding tissues. The condition is typically present at birth and can significantly impact neurological function and quality of life.
+
+### Disease Category
+Neurocutaneous Disorder
+- Neurological Condition
+- Vascular Malformation Syndrome
+
+### Synonyms
+- Encephalotrigeminal Angiomatosis
+- Sturge-Weber Disease
+- SWS
+
+### Signs & Symptoms
+Primary Clinical Manifestations:
+- Facial port-wine stain (nevus flammeus), typically unilateral
+- Neurological complications
+- Seizures
+- Developmental delays
+- Glaucoma
+- Chronic headaches
+- Hemiparesis
+- Intellectual disability
+- Potential vision and hearing impairments
+- Potential cognitive challenges
+
+### Causes
+Genetic Etiology:
+- Somatic mutation in the GNAQ gene
+- Occurs randomly during early embryonic development
+- Not inherited
+- Mutation affects blood vessel formation and neurological development
+
+### Affected Populations
+- Incidence: 1 in 20,000 to 1 in 50,000 newborns
+- Equal gender distribution
+- No specific ethnic predisposition
+- Sporadic occurrence
+
+### Disorders with Similar Symptoms
+- Klippel-Trenaunay Syndrome
+- Parkes Weber Syndrome
+- Other facial vascular malformations
+- Neurocutaneous syndromes
+- Port-wine stain disorders
+
+### Diagnosis
+Diagnostic Approach:
+- Comprehensive clinical evaluation
+- Physical examination
+- Detailed medical history
+- Neurological assessment
+- Imaging studies (MRI, CT scans)
+- Ophthalmological examinations
+- Genetic testing
+- Electroencephalogram (EEG)
+
+### Standard Therapies
+Multidisciplinary Treatment:
+- Anticonvulsant medications
+- Pulsed dye laser treatment for port-wine stains
+- Glaucoma management
+- Surgical interventions
+- Physical therapy
+- Occupational therapy
+- Educational support
+- Psychological counseling
+
+### Clinical Trials and Studies
+Research Focus:
+- Genetic mechanisms
+- Novel therapeutic approaches
+- Long-term outcome studies
+- Treatment optimization
+- Resources: ClinicalTrials.gov
+
+### References
+- Online Mendelian Inheritance in Man (OMIM)
+- National Institutes of Health – Genetic and Rare Diseases Information Center
+- Sturge-Weber Foundation
+- Journal of Neurology and Neurosurgery
+- Pediatric Neurology Publications
+
+### Programs & Resources
+- Sturge-Weber Foundation
+- National Organization for Rare Disorders (NORD)
+- Genetic Counseling Services
+- Patient Support Groups
+- Specialized Neurology Clinics
+
+### Complete Report
+Comprehensive medical documentation available through specialized rare disease research centers and genetic counseling services.

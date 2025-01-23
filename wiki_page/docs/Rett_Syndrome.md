@@ -1,56 +1,89 @@
-# Rett Syndrome
-
-**Disease Overview:**
-Rett syndrome is a rare genetic neurological and developmental disorder that affects the way the brain develops. It results in severe cognitive and physical disabilities that become apparent after an initial period of normal development.
-
-**Disease Category:**
-Neurological disorder
-
-**Synonyms:**
-- RTT
-- Autism-dementia-ataxia-loss of purposeful hand use syndrome
-
-**Signs & Symptoms:**
-- Loss of purposeful hand skills (e.g., hand-wringing, washing, clapping)
-- Loss of speech
-- Cognitive disabilities
-- Seizures
-- Slowed growth
-- Gait abnormalities
-- Breathing irregularities
-
-**Causes:**
-Rett syndrome is most often caused by mutations in the MECP2 gene. This gene plays a crucial role in the normal functioning of nerve cells.
-
-**Affected Populations:**
-Rett syndrome primarily affects females. It is estimated to occur in 1 in every 10,000 to 15,000 female births. Males with the condition typically have more severe forms and often do not survive infancy.
-
-**Disorders with Similar Symptoms:**
-- Autism spectrum disorder
-- Angelman syndrome
-- Cerebral palsy
-- Childhood disintegrative disorder
-
-**Diagnosis:**
-Diagnosis of Rett syndrome is primarily clinical, based on observed signs and symptoms, but is confirmed with genetic testing for mutations in the MECP2 gene. Diagnostic criteria also involve ruling out other disorders with similar symptoms.
-
-**Standard Therapies:**
-- Symptomatic treatment includes physical therapy, occupational therapy, speech therapy, and anticonvulsant medications for seizures.
-- Nutritional support and strategies for improving mobility and communication are also critical.
-- There is no cure for Rett syndrome, and treatment focuses on improving quality of life.
-
-**Clinical Trials and Studies:**
-Current clinical trials and studies are exploring various potential treatments, including gene therapy, novel pharmacological agents, and interventions aimed at symptom management. For the most up-to-date information, clinical trial registries should be consulted.
-
-**References:**
-- Information not available
-
-**Programs & Resources:**
-- International Rett Syndrome Foundation (rettsyndrome.org)
-- Rettsyndrome.org Clinical Research Network
-- Patient advocacy and support groups
-
-**Complete Report:**
-Rett syndrome is a rare genetic disorder primarily affecting females and characterized by severe disabilities in cognition and physical function due to mutations in the MECP2 gene. Symptoms such as loss of hand skills, speech, seizures, and gait abnormalities become evident after initial normal development. Diagnosis is clinical, supplemented by genetic testing. Though there is no cure, symptomatic treatment and supportive therapies are crucial for managing the condition. Ongoing research and clinical trials are exploring new potential treatments and therapies to improve the quality of life for those affected by Rett syndrome. For more information, resources such as the International Rett Syndrome Foundation provide support and updates on the latest research.
-
-**Information not available.**
+# Rett Syndrome
+
+### Disease Overview
+Rett syndrome is a rare genetic neurological and developmental disorder that primarily affects females, characterized by severe cognitive and physical disabilities that emerge after an initial period of normal early development. The disorder results in progressive neurological impairment and significant developmental challenges.
+
+### Disease Category
+Rare genetic neurological and developmental disorder
+
+### Synonyms
+- RTT
+- Autism-dementia-ataxia-loss of purposeful hand use syndrome
+- MECP2-related neurodevelopmental disorder
+
+### Signs & Symptoms
+- Progressive loss of purposeful hand skills
+- Stereotypic hand movements (hand-wringing, washing, clapping)
+- Severe speech and language impairment
+- Cognitive disabilities
+- Seizures and epilepsy
+- Slowed physical growth and development
+- Abnormal gait and motor skills
+- Breathing irregularities (hyperventilation, breath holding)
+- Scoliosis
+- Sleep disturbances
+- Reduced social interaction
+
+### Causes
+- Primarily caused by mutations in the MECP2 gene (located on X chromosome)
+- Most cases are spontaneous mutations
+- Extremely rare inherited cases
+- Affects protein production critical for neural development and function
+- Almost exclusively affects females due to X-chromosome linked inheritance
+
+### Affected Populations
+- Prevalence: 1 in 10,000 to 15,000 female births
+- Predominantly affects females
+- Males with mutations typically experience more severe symptoms and often do not survive infancy
+- Occurs across all racial and ethnic groups
+
+### Disorders with Similar Symptoms
+- Autism spectrum disorder
+- Angelman syndrome
+- Cerebral palsy
+- Childhood disintegrative disorder
+- Fragile X syndrome
+
+### Diagnosis
+- Clinical evaluation of developmental history and symptoms
+- Genetic testing for MECP2 gene mutations
+- Neurological examination
+- Developmental assessments
+- Ruling out other similar neurological disorders
+- Brain imaging studies
+- Electroencephalogram (EEG) to assess seizure activity
+
+### Standard Therapies
+- Multidisciplinary supportive care
+- Physical therapy
+- Occupational therapy
+- Speech and communication therapy
+- Seizure management with anticonvulsant medications
+- Nutritional support
+- Assistive communication technologies
+- Orthopedic interventions for scoliosis
+- Behavioral and psychological support
+
+### Clinical Trials and Studies
+- Ongoing research into:
+  - Gene therapy
+  - Neurological rehabilitation techniques
+  - Pharmacological interventions
+  - Stem cell therapies
+  - Symptom management strategies
+
+### References
+- National Institute of Neurological Disorders and Stroke
+- Genetics Home Reference
+- International Rett Syndrome Foundation
+- Recent peer-reviewed medical journals focusing on genetic neurological disorders
+
+### Programs & Resources
+- International Rett Syndrome Foundation
+- Rettsyndrome.org Clinical Research Network
+- National Organization for Rare Disorders (NORD)
+- Genetic counseling services
+- Patient support groups
+
+### Complete Report
+A comprehensive overview of Rett syndrome highlighting its genetic origins, clinical manifestations, diagnostic approaches, and ongoing research into potential treatments and management strategies.

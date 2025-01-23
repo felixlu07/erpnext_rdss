@@ -1,13 +1,13 @@
 # Aicardi Syndrome
 
 ### Disease Overview
-Aicardi Syndrome is a rare, complex genetic disorder primarily affecting females, characterized by a distinctive triad of neurological, ophthalmological, and developmental abnormalities. The condition is typically identified in early infancy and presents with significant neurological challenges.
+Aicardi Syndrome is a rare, complex X-linked genetic disorder primarily affecting females, characterized by a distinctive triad of neurological, ophthalmological, and developmental abnormalities. The condition is typically identified in early infancy and presents with significant neurological and developmental challenges.
 
 ### Disease Category
-- Genetic Disorder
+- Rare Genetic Disorder
 - Neurodevelopmental Disorder
-- Congenital Disorder
 - X-linked Developmental Disorder
+- Congenital Neurological Condition
 
 ### Synonyms
 - Agenesis of Corpus Callosum with Chorioretinal Abnormality
@@ -17,35 +17,42 @@ Aicardi Syndrome is a rare, complex genetic disorder primarily affecting females
 ### Signs & Symptoms
 Neurological Manifestations:
 - Infantile spasms
-- Epileptic seizures
-- Developmental delays
-- Intellectual disability
+- Intractable epileptic seizures
+- Severe developmental delays
+- Profound intellectual disability
 - Cognitive impairment
+- Neurological deficits
 
 Ophthalmologic Abnormalities:
-- Chorioretinal lacunae
-- Colobomas
+- Characteristic chorioretinal lacunae
+- Optic nerve colobomas
 - Retinal abnormalities
-- Visual impairment
+- Severe visual impairment or blindness
 
 Additional Features:
-- Skeletal abnormalities (rib and vertebral deformities)
+- Skeletal malformations
+- Rib and vertebral deformities
 - Craniofacial anomalies
 - Microcephaly
 - Asymmetric brain malformations
+- Growth delays
+- Muscle weakness
 
 ### Causes
-- Presumed X-chromosome mutation
-- Likely caused by a de novo genetic mutation
-- Predominantly affects females
-- Potentially lethal in male embryos
-- Sporadic occurrence with no clear familial inheritance pattern
+- X-chromosome mutation (TEAD1 gene or other unidentified genes)
+- De novo genetic mutation
+- Occurs almost exclusively in females
+- Likely lethal in male embryos
+- Sporadic occurrence with no consistent familial inheritance pattern
+- Believed to result from random genetic mutations during early embryonic development
 
 ### Affected Populations
 - Prevalence: Approximately 1 in 100,000 live births
-- Almost exclusively affects females
+- Overwhelmingly affects females
 - Extremely rare in males
-- Global distribution without specific ethnic predisposition
+- Global distribution
+- No specific ethnic predisposition
+- Typically diagnosed in infancy or early childhood
 
 ### Disorders with Similar Symptoms
 - Agenesis of the Corpus Callosum
@@ -53,35 +60,44 @@ Additional Features:
 - West Syndrome
 - Infantile Spasms
 - Chromosomal disorders with neurological involvement
+- Cortical dysplasia
+- Neurodevelopmental disorders with seizures
 
 ### Diagnosis
 Diagnostic Criteria:
 - Clinical observation of characteristic triad
-- Neuroimaging (MRI/CT scans)
-- Ophthalmologic examination
-- Genetic counseling
+- Comprehensive neurological evaluation
+- Advanced neuroimaging (MRI/CT scans)
+- Detailed ophthalmologic examination
+- Genetic counseling and testing
 - Exclusion of similar genetic conditions
 
 Diagnostic Techniques:
-- Brain imaging
+- Brain magnetic resonance imaging (MRI)
 - Electroencephalography (EEG)
 - Comprehensive genetic screening
 - Ophthalmologic assessment
+- Developmental and neurological evaluations
 
 ### Standard Therapies
 - Anticonvulsant medications
-- Seizure management
+- Seizure management strategies
 - Physical therapy
 - Occupational therapy
+- Speech therapy
 - Special education interventions
 - Symptomatic treatment of associated conditions
 - Multidisciplinary medical management
+- Assistive technologies
+- Supportive care
 
 ### Clinical Trials and Studies
-- Ongoing research into genetic mechanisms
+- Ongoing genetic mechanism research
 - Investigations of potential therapeutic interventions
-- Studies exploring long-term developmental outcomes
+- Long-term developmental outcome studies
 - Genetic mapping and mutation identification projects
+- Emerging gene therapy research
+- Neurological intervention studies
 
 ### References
 - National Organization for Rare Disorders (NORD)
@@ -89,6 +105,7 @@ Diagnostic Techniques:
 - Orphanet
 - National Institutes of Health
 - Journal of Medical Genetics
+- American Journal of Medical Genetics
 
 ### Programs & Resources
 - Genetic and Rare Diseases Information Center
@@ -96,8 +113,9 @@ Diagnostic Techniques:
 - March of Dimes
 - National Organization for Rare Disorders
 - Rare Chromosome Disorder Support Group
+- International Aicardi Syndrome Association
 
 ### Complete Report
-Aicardi Syndrome represents a complex, rare genetic disorder with significant neurological and developmental implications. While current understanding is limited, ongoing research continues to explore its genetic origins and potential therapeutic approaches. Comprehensive, multidisciplinary care remains crucial for managing affected individuals.
+Aicardi Syndrome represents a complex, rare genetic disorder with profound neurological and developmental implications. While current understanding remains limited, ongoing research continues to explore its genetic origins and potential therapeutic approaches. Comprehensive, multidisciplinary care remains crucial for managing affected individuals.
 
-Patients and families are encouraged to seek specialized genetic counseling and maintain close medical monitoring to optimize developmental outcomes and quality of life.
+Patients and families are encouraged to seek specialized genetic counseling, maintain close medical monitoring, and engage with support networks to optimize developmental outcomes and quality of life.

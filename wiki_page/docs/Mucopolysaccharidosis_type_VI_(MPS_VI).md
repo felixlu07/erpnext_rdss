@@ -1,68 +1,94 @@
-# Mucopolysaccharidosis type VI (MPS VI)
-### Disease Overview
-Mucopolysaccharidosis type VI (MPS VI), also known as Maroteaux-Lamy Syndrome, is a rare inherited metabolic disorder. It falls under the category of lysosomal storage diseases and is characterized by a deficiency of the lysosomal enzyme arylsulfatase B, also known as N-acetylgalactosamine-4-sulfatase. This enzyme deficiency leads to the accumulation of glycosaminoglycans (GAGs) in tissues and organs, causing a wide range of clinical symptoms.
-
-### Disease Category
-MPS VI is classified as a lysosomal storage disorder, which is a subgroup of metabolic disorders.
-
-### Synonyms
-- Maroteaux-Lamy Syndrome
-- Polydystrophic Dwarfism
-- MPS 6
-
-### Signs & Symptoms
-The signs and symptoms of MPS VI can vary widely in severity and may include:
-- Skeletal abnormalities such as dysostosis multiplex
-- Short stature and growth retardation
-- Joint stiffness and pain
-- Coarse facial features
-- Corneal clouding
-- Enlarged liver and spleen (hepatosplenomegaly)
-- Cardiac issues, including heart valve abnormalities
-- Respiratory problems
-- Hernias
-- Hearing loss
-
-### Causes
-MPS VI is caused by mutations in the ARSB gene, which provides instructions for producing the enzyme arylsulfatase B. These mutations result in reduced or absent activity of the enzyme, leading to the accumulation of GAGs in cells, particularly in the lysosomes, causing progressive damage.
-
-### Affected Populations
-MPS VI can affect individuals of any ethnic background. The disorder is inherited in an autosomal recessive manner, meaning that two copies of the mutated gene are required for a person to be affected. The prevalence of MPS VI is estimated to be between 1 in 250,000 to 1 in 600,000 in the general population.
-
-### Disorders with Similar Symptoms
-MPS VI shares overlapping symptoms with other types of mucopolysaccharidoses and other lysosomal storage disorders, such as:
-- Mucopolysaccharidosis type I (Hurler syndrome)
-- Mucopolysaccharidosis type II (Hunter syndrome)
-- Mucopolysaccharidosis type IV (Morquio syndrome)
-- Mucopolysaccharidosis type VII (Sly syndrome)
-These conditions may exhibit similar clinical features, making differential diagnosis important.
-
-### Diagnosis
-Diagnosis of MPS VI involves several steps:
-1. Clinical evaluation based on signs and symptoms.
-2. Urine test to detect elevated levels of dermatan sulfate.
-3. Enzyme assay to measure arylsulfatase B activity in blood leukocytes or fibroblasts.
-4. Molecular genetic testing to identify mutations in the ARSB gene.
-
-### Standard Therapies
-The treatment options for MPS VI include:
-- Enzyme Replacement Therapy (ERT): Recombinant human arylsulfatase B (galsulfase, commercial name Naglazyme) to supplement the deficient enzyme and reduce GAG storage.
-- Symptomatic and supportive treatments: Management of heart and respiratory problems, physical therapy for joint stiffness, orthopedic surgeries for skeletal abnormalities, hearing aids for hearing loss, and regular monitoring of organ function.
-- Hematopoietic stem cell transplantation (HSCT): Considered in selected cases, although it carries significant risk and is less commonly used.
-
-### Clinical Trials and Studies
-Ongoing research and clinical trials aim to explore new treatments and improve existing ones for MPS VI. These may include enhancing ERT effectiveness, gene therapy approaches, and investigating small molecule treatments. Detailed information on current clinical trials is available through databases such as ClinicalTrials.gov.
-
-### References
-Information not available.
-
-### Programs & Resources
-There are several resources and support programs for patients with MPS VI and their families, including:
-- National MPS Society
-- International MPS Network
-- Global Genes
-- National Organization for Rare Disorders (NORD)
-These organizations provide educational materials, support networks, advocacy, and information on financial assistance.
-
-### Complete Report
-Mucopolysaccharidosis type VI (MPS VI) is a rare genetic lysosomal storage disorder caused by mutations in the ARSB gene, leading to a deficiency in arylsulfatase B enzyme activity. This enzyme deficiency results in the accumulation of glycosaminoglycans (GAGs) such as dermatan sulfate, causing a wide spectrum of symptoms including skeletal abnormalities, short stature, cardiac issues, and respiratory complications. Diagnosis involves a combination of clinical evaluation, urine tests, enzyme activity assays, and genetic testing. The mainstay of treatment is Enzyme Replacement Therapy (ERT) with galsulfase, alongside supportive care to manage symptoms. Various organizations and support networks provide resources for affected individuals and their families. Ongoing research and clinical trials continue to seek improved therapies for MPS VI.
+# Mucopolysaccharidosis type VI (MPS VI)
+
+### Disease Overview
+Mucopolysaccharidosis type VI (MPS VI) is a rare, progressive genetic disorder characterized by the body's inability to break down specific complex sugar molecules (glycosaminoglycans) due to a deficient enzyme. The condition leads to widespread cellular and organ damage, causing significant physical and developmental challenges.
+
+### Disease Category
+Lysosomal Storage Disorder (LSD)
+Metabolic Disorder
+Genetic Disorder
+
+### Synonyms
+- Maroteaux-Lamy Syndrome
+- Arylsulfatase B Deficiency
+- MPS 6
+- Polydystrophic Dwarfism
+
+### Signs & Symptoms
+Progressive symptoms include:
+Physical Characteristics:
+- Short stature
+- Coarse facial features
+- Skeletal deformities
+- Joint stiffness and contractures
+- Enlarged liver and spleen
+
+Organ System Complications:
+- Cardiac valve abnormalities
+- Respiratory difficulties
+- Corneal clouding
+- Hearing loss
+- Recurrent ear infections
+- Hernias
+- Spinal cord compression
+
+### Causes
+Genetic Basis:
+- Autosomal recessive inheritance
+- Mutations in the ARSB gene
+- Results in deficiency of arylsulfatase B enzyme
+- Leads to accumulation of dermatan sulfate in cells and tissues
+
+### Affected Populations
+- Prevalence: 1 in 250,000 to 1 in 600,000 births
+- Affects all ethnic groups equally
+- No gender predilection
+- Typically diagnosed in early childhood
+
+### Disorders with Similar Symptoms
+- Mucopolysaccharidosis type I (Hurler syndrome)
+- Mucopolysaccharidosis type II (Hunter syndrome)
+- Mucopolysaccharidosis type IV (Morquio syndrome)
+- Other lysosomal storage disorders
+
+### Diagnosis
+Diagnostic Approach:
+- Comprehensive clinical evaluation
+- Urine glycosaminoglycan screening
+- Enzyme activity assay
+- Genetic mutation analysis
+- Imaging studies (X-rays, MRI)
+- Cardiac and respiratory function tests
+
+### Standard Therapies
+Primary Treatments:
+- Enzyme Replacement Therapy (ERT) with galsulfase
+- Symptomatic management
+- Physical and occupational therapy
+- Orthopedic interventions
+- Respiratory support
+- Cardiac monitoring
+
+### Clinical Trials and Studies
+Research Focus Areas:
+- Gene therapy
+- Enhanced enzyme replacement strategies
+- Small molecule therapies
+- Long-term treatment outcomes
+
+### References
+- Online Mendelian Inheritance in Man (OMIM)
+- National Institutes of Health (NIH)
+- Rare Disease Clinical Research Network
+- International scientific journals specializing in metabolic disorders
+
+### Programs & Resources
+Support Organizations:
+- National MPS Society
+- Global Genes
+- National Organization for Rare Disorders (NORD)
+- International MPS Network
+- Genetic and Rare Diseases Information Center
+
+### Complete Report
+Mucopolysaccharidosis type VI is a complex genetic disorder requiring multidisciplinary management. Early diagnosis, comprehensive care, and ongoing research are crucial for improving patient outcomes and quality of life.

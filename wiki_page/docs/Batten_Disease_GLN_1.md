@@ -1,70 +1,87 @@
-# Batten Disease GLN 1
-### Batten Disease CLN1 (Neuronal Ceroid Lipofuscinoses 1)
-
-#### Disease Overview
-Batten Disease CLN1, also known as Neuronal Ceroid Lipofuscinosis 1 (CLN1), is a rare, fatal, inherited disorder of the nervous system that typically begins in childhood. It is characterized by the progressive degeneration of the nervous system, leading to a decline in motor skills, seizures, and loss of vision, among other symptoms.
-
-#### Disease Category
-- **Category**: Neurodegenerative lysosomal storage disorders.
-
-#### Synonyms
-- Infantile Neuronal Ceroid Lipofuscinosis (INCL)
-- CLN1 disease
-- Santavuori-Haltia disease
-
-#### Signs & Symptoms
-- **Early Signs**: Developmental delay typically becomes evident around 6 months to 2 years of age.
-- **Progressive Symptoms**:
-  - Seizures
-  - Rapid deterioration of motor skills
-  - Visual impairment leading to blindness
-  - Behavioral changes
-  - Loss of fine motor skills and speech
-  - Muscle rigidity, clumsiness, and cognitive decline
-
-#### Causes
-- **Genetic Mutation**: Caused by mutations in the PPT1 gene.
-- **Inheritance Pattern**: Autosomal recessive inheritance.
-
-#### Affected Populations
-- **Demographics**: Typically begins in infancy or early childhood. Both sexes can be affected equally.
-
-#### Disorders with Similar Symptoms
-- Other forms of Neuronal Ceroid Lipofuscinoses (NCL)
-- Rett Syndrome
-- Mitochondrial disorders
-- Other lysosomal storage disorders
-
-#### Diagnosis
-- **Diagnostic Tests**:
-  - Genetic testing to identify PPT1 gene mutation.
-  - Enzyme assay for palmitoyl-protein thioesterase-1 (PPT1) activity.
-  - MRI of the brain showing typical patterns associated with CLN1.
-  - Electroencephalography (EEG) to identify seizure patterns.
-  - Visual evoked potentials (VEP) and ophthalmology exams to assess vision loss.
-
-#### Standard Therapies
-- **Symptomatic Treatment**:
-  - Anti-seizure medications.
-  - Physical and occupational therapy to help with motor skills.
-  - Speech therapy.
-  - Nutritional support and proper care to manage feeding difficulties.
-- **Experimental Therapies**:
-  - Gene therapy: Research is ongoing to determine the potential efficacy of gene therapy to correct the underlying genetic defect.
-  - Enzyme Replacement Therapy (ERT).
-
-#### Clinical Trials and Studies
-Information on current clinical trials and studies can be obtained from clinical trial registries such as ClinicalTrials.gov. Researchers are continuously exploring novel therapeutic approaches, including gene therapy and novel drug candidates.
-
-#### References
-Information not available.
-
-#### Programs & Resources
-- **Batten Disease Support and Research Association (BDSRA)**: Provides support and advocacy for families affected by Batten Disease.
-- **National Institute of Neurological Disorders and Stroke (NINDS)**: Provides information and research on neurological disorders, including Batten Disease.
-- **International NCL (Batten Disease) Database**: Offers resources for families and healthcare providers.
-
-#### Complete Report
-For a complete detailed report on Batten Disease CLN1, a healthcare professional specializing in genetic and neurodegenerative disorders should be consulted. Comprehensive information can also be accessed via dedicated medical literature databases and Batten Disease research organizations.
-
-If more precise or additional information is needed, consulting a specialist or contacting research organizations dedicated to Batten Disease is recommended.
+# Batten Disease CLN1
+
+### Disease Overview
+Batten Disease CLN1 is a rare, fatal, inherited neurodegenerative disorder characterized by progressive neurological deterioration. It typically begins in early childhood, causing severe neurological decline, seizures, vision loss, and developmental regression.
+
+### Disease Category
+Neurodegenerative lysosomal storage disorder; specifically a type of Neuronal Ceroid Lipofuscinosis (NCL)
+
+### Synonyms
+- Infantile Neuronal Ceroid Lipofuscinosis (INCL)
+- CLN1 disease
+- Santavuori-Haltia disease
+- PPT1-related neuronal ceroid lipofuscinosis
+
+### Signs & Symptoms
+- Early developmental delay (6 months to 2 years)
+- Progressive neurological symptoms:
+  - Intractable seizures
+  - Rapid motor skill deterioration
+  - Complete vision loss
+  - Cognitive decline
+  - Muscle rigidity and spasticity
+  - Loss of speech and communication abilities
+  - Profound intellectual disability
+  - Feeding difficulties
+  - Eventual complete loss of motor function
+
+### Causes
+- Genetic Mutation: Pathogenic variants in the PPT1 gene
+- Inheritance Pattern: Autosomal recessive
+- Results in deficiency of palmitoyl-protein thioesterase-1 enzyme
+- Leads to abnormal protein and lipid storage in cells
+
+### Affected Populations
+- Incidence: Approximately 1 in 100,000 live births
+- Onset: Typically between 6 months and 2 years of age
+- Equal prevalence in males and females
+- Most common in populations of Northern European descent
+
+### Disorders with Similar Symptoms
+- Other Neuronal Ceroid Lipofuscinoses (CLN2-CLN14)
+- Rett Syndrome
+- Mitochondrial disorders
+- Leukodystrophies
+- Metabolic storage disorders
+
+### Diagnosis
+- Genetic testing for PPT1 gene mutations
+- Enzyme activity assay for palmitoyl-protein thioesterase-1
+- Brain MRI showing characteristic neurodegeneration
+- EEG to document seizure patterns
+- Visual evoked potential testing
+- Skin or muscle biopsy to detect characteristic cellular inclusions
+
+### Standard Therapies
+- Symptomatic management:
+  - Anticonvulsant medications
+  - Physical therapy
+  - Occupational therapy
+  - Nutritional support
+  - Respiratory care
+- Experimental approaches:
+  - Gene therapy
+  - Enzyme replacement therapy
+  - Stem cell research
+
+### Clinical Trials and Studies
+- Ongoing research at major pediatric neurology centers
+- Gene therapy trials investigating PPT1 gene correction
+- Enzyme replacement therapy studies
+- Registered clinical trials available on ClinicalTrials.gov
+
+### References
+- Online Mendelian Inheritance in Man (OMIM)
+- National Organization for Rare Disorders (NORD)
+- Genetic and Rare Diseases Information Center
+- Recent genetic and neurological research publications
+
+### Programs & Resources
+- Batten Disease Support and Research Association (BDSRA)
+- National Institute of Neurological Disorders and Stroke (NINDS)
+- International NCL Research Consortium
+- Genetic counseling services
+- Patient support groups
+
+### Complete Report
+Comprehensive management requires a multidisciplinary approach involving neurologists, geneticists, pediatric specialists, and supportive care teams. Early diagnosis and comprehensive care are crucial for managing symptoms and improving quality of life.

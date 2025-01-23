@@ -1,56 +1,91 @@
-# SMA Typ 2
-
-### Disease Overview:
-Spinal Muscular Atrophy (SMA) Type 2 is a rare genetic disorder characterized by the loss of motor neurons in the spinal cord, leading to muscle weakness and atrophy.
-
-### Disease Category:
-Neuromuscular Disorder
-
-### Synonyms:
-- Intermediate Spinal Muscular Atrophy
-- SMA II
-- Juvenile Spinal Muscular Atrophy
-
-### Signs & Symptoms:
-- Symptom onset typically between 6 and 18 months of age
-- Muscle weakness, especially in the proximal muscles (those closer to the center of the body)
-- Delayed motor milestones
-- Fasciculations (muscle twitches) in the tongue
-- Difficulty in sitting independently but usually not in walking
-- Mild to moderate respiratory problems
-
-### Causes:
-SMA Type 2 is caused by mutations in the SMN1 gene, which is responsible for the production of the survival motor neuron (SMN) protein essential for motor neuron survival.
-
-### Affected Populations:
-- SMA Type 2 affects approximately 1 in 10,000 live births
-- Both males and females are equally affected
-
-### Disorders with Similar Symptoms:
-- Muscular Dystrophy
-- Congenital Myopathies
-- Guillain-Barre Syndrome
-- Other forms of Spinal Muscular Atrophy
-
-### Diagnosis:
-- Genetic testing to identify mutations in the SMN1 gene
-- Electromyography (EMG) and nerve conduction velocity (NCV) tests to assess muscle and nerve function
-- Muscle biopsy in atypical cases
-
-### Standard Therapies:
-- Nusinersen (Spinraza): An FDA-approved antisense oligonucleotide that targets SMN2 gene splicing to increase the production of SMN protein.
-- Onasemnogene abeparvovec (Zolgensma): A gene replacement therapy for SMA that delivers a copy of the SMN1 gene.
-- Supportive therapies such as physical therapy, respiratory care, and nutritional support.
-
-### Clinical Trials and Studies:
-Clinical trials and studies are ongoing to explore new treatments, therapies, and interventions for SMA Type 2. Patients and families can search for relevant trials on clinicaltrials.gov.
-
-### References:
-- Information not available
-
-### Programs & Resources:
-- Cure SMA: A patient advocacy and support organization focused on SMA
-- Muscular Dystrophy Association (MDA): Provides support and resources for individuals with SMA and other neuromuscular diseases
-
-### Complete Report:
-Spinal Muscular Atrophy (SMA) Type 2 is a neuromuscular disorder caused by mutations in the SMN1 gene, leading to muscle weakness and atrophy due to the loss of motor neurons in the spinal cord. The disorder typically presents between 6 and 18 months of age and affects both males and females equally. Diagnosis is confirmed through genetic testing, and treatment options include Nusinersen, Onasemnogene abeparvovec, and supportive therapies. Ongoing clinical trials aim to discover new interventions and treatments. Support and resources are available from organizations such as Cure SMA and the Muscular Dystrophy Association.
+# SMA Type 2
+
+### Disease Overview
+Spinal Muscular Atrophy (SMA) Type 2 is a rare genetic neuromuscular disorder characterized by progressive muscle weakness and atrophy due to the degeneration of motor neurons in the spinal cord. This intermediate form of SMA typically manifests between 6 and 18 months of age, causing significant motor function impairment and developmental challenges.
+
+### Disease Category
+Neuromuscular Disorder
+Genetic Disorder
+Autosomal Recessive Condition
+
+### Synonyms
+- Intermediate Spinal Muscular Atrophy
+- SMA II
+- Juvenile Spinal Muscular Atrophy
+- Chromosome 5q Spinal Muscular Atrophy
+
+### Signs & Symptoms
+- Symptom onset between 6 and 18 months of age
+- Progressive muscle weakness, primarily in proximal muscles
+- Delayed motor milestones
+- Fasciculations (muscle twitches) in the tongue
+- Ability to sit independently but difficulty standing or walking
+- Respiratory complications
+- Scoliosis
+- Contractures
+- Reduced muscle tone (hypotonia)
+- Potential feeding difficulties
+
+### Causes
+- Genetic mutation in the SMN1 gene on chromosome 5q
+- Reduced production of survival motor neuron (SMN) protein
+- Autosomal recessive inheritance pattern
+- Requires inheritance of mutated gene from both parents
+
+### Affected Populations
+- Incidence: Approximately 1 in 10,000 live births
+- Equal prevalence in males and females
+- Typically diagnosed in infancy or early childhood
+- Affects all ethnic groups
+
+### Disorders with Similar Symptoms
+- Muscular Dystrophy
+- Congenital Myopathies
+- Guillain-Barre Syndrome
+- Other forms of Spinal Muscular Atrophy
+- Peripheral Neuropathies
+- Mitochondrial Disorders
+
+### Diagnosis
+- Comprehensive medical history and physical examination
+- Genetic testing for SMN1 gene mutations
+- Electromyography (EMG)
+- Nerve conduction velocity (NCV) tests
+- Muscle biopsy (in atypical cases)
+- Creatine kinase (CK) level assessment
+- Genetic counseling
+
+### Standard Therapies
+- Nusinersen (Spinraza): Antisense oligonucleotide therapy
+- Onasemnogene abeparvovec (Zolgensma): Gene replacement therapy
+- Risdiplam (Evrysdi): Oral SMN2 gene splicing modifier
+- Supportive therapies:
+  - Physical therapy
+  - Occupational therapy
+  - Respiratory support
+  - Nutritional management
+  - Orthopedic interventions
+  - Assistive devices
+
+### Clinical Trials and Studies
+- Ongoing research into gene therapy
+- Exploring novel pharmacological interventions
+- Investigating potential combination therapies
+- Studying long-term outcomes and treatment efficacy
+- Resources: ClinicalTrials.gov
+
+### References
+- National Institutes of Health (NIH)
+- Genetics Home Reference
+- Cure SMA Research
+- Journal of Neuromuscular Diseases
+
+### Programs & Resources
+- Cure SMA
+- Muscular Dystrophy Association (MDA)
+- National Organization for Rare Disorders (NORD)
+- Parent Project Muscular Dystrophy
+- International SMA Research Consortium
+
+### Complete Report
+Spinal Muscular Atrophy Type 2 is a complex genetic neuromuscular disorder requiring comprehensive, multidisciplinary management. Early diagnosis, genetic counseling, and emerging therapies offer improved prognosis and quality of life for affected individuals.

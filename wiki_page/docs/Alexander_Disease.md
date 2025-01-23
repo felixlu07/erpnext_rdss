@@ -23,6 +23,8 @@ Infantile Form (most common and severe):
 - Failure to thrive
 - Abnormal muscle tone
 - Feeding difficulties
+- Hydrocephalus
+- Facial abnormalities
 
 Juvenile and Adult Forms:
 - Progressive neurological decline
@@ -32,6 +34,8 @@ Juvenile and Adult Forms:
 - Ataxia (impaired coordination)
 - Seizures
 - Sensory disturbances
+- Muscle weakness
+- Vision problems
 
 ### Causes
 Genetic Cause:
@@ -39,6 +43,8 @@ Genetic Cause:
 - Typically occurs as a de novo mutation (not inherited from parents)
 - Autosomal dominant inheritance pattern
 - Disrupts astrocyte function and white matter development
+- Leads to abnormal protein aggregation in astrocytes
+- Impairs normal brain development and neurological function
 
 ### Affected Populations
 - Extremely rare disorder
@@ -46,6 +52,7 @@ Genetic Cause:
 - Estimated prevalence: Less than 1 in 1,000,000 individuals
 - Can occur in all ethnic groups
 - Most cases diagnosed in infancy or early childhood
+- Highest incidence in first two years of life
 
 ### Disorders with Similar Symptoms
 - Canavan Disease
@@ -53,6 +60,8 @@ Genetic Cause:
 - Megalencephalic Leukoencephalopathy
 - Multiple Sclerosis
 - Vanishing White Matter Disease
+- Krabbe Disease
+- Pelizaeus-Merzbacher Disease
 
 ### Diagnosis
 Diagnostic Methods:
@@ -63,11 +72,14 @@ Diagnostic Methods:
 - Neurological examination
 - Cerebrospinal fluid analysis
 - Brain biopsy (in rare cases)
+- Electroencephalogram (EEG)
+- Genetic counseling
 
 Diagnostic Criteria:
 - Characteristic MRI findings
 - Genetic confirmation of GFAP mutation
 - Consistent clinical symptoms
+- Exclusion of other similar neurological disorders
 
 ### Standard Therapies
 Current treatment is supportive and symptomatic:
@@ -79,6 +91,8 @@ Current treatment is supportive and symptomatic:
 - Assistive devices
 - Respiratory support
 - Management of specific symptoms
+- Specialized educational interventions
+- Psychological support for patients and families
 
 ### Clinical Trials and Studies
 - Limited clinical trials due to rarity of condition
@@ -86,9 +100,11 @@ Current treatment is supportive and symptomatic:
   - Gene therapy
   - Molecular mechanisms
   - Potential targeted treatments
+  - Stem cell research
 - Recommended resources:
   - ClinicalTrials.gov
   - National Institutes of Health (NIH)
+  - Rare Disease Clinical Research Network
 
 ### References
 - National Organization for Rare Disorders (NORD)
@@ -96,6 +112,7 @@ Current treatment is supportive and symptomatic:
 - National Institute of Neurological Disorders and Stroke
 - Journal of Child Neurology
 - Annals of Neurology
+- Orphanet Journal of Rare Diseases
 
 ### Programs & Resources
 - United Leukodystrophy Foundation
@@ -103,6 +120,8 @@ Current treatment is supportive and symptomatic:
 - National Organization for Rare Disorders
 - Patient support groups
 - Genetic counseling services
+- International support networks
+- Online patient forums
 
 ### Complete Report
-Alexander Disease is a devastating neurogenetic disorder with significant impact on patients and families. While currently without a cure, ongoing research offers hope for future therapeutic interventions. Comprehensive, multidisciplinary care and support are crucial for managing this complex condition.
+Alexander Disease is a devastating neurogenetic disorder with significant impact on patients and families. While currently without a cure, ongoing research offers hope for future therapeutic interventions. Comprehensive, multidisciplinary care and support are crucial for managing this complex condition. Early diagnosis, supportive care, and ongoing research remain key strategies in addressing this rare neurological disorder.

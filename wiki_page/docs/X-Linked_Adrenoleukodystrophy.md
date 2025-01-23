@@ -1,60 +1,101 @@
-# X-Linked Adrenoleukodystrophy
-
-**Disease Overview:**  
-X-Linked Adrenoleukodystrophy (X-ALD) is a rare genetic disorder that affects the nervous system and adrenal glands, leading to the buildup of very long-chain fatty acids (VLCFAs) in the body.
-
-**Disease Category:**  
-Genetic, Metabolic Disorders
-
-**Synonyms:**  
-- Adrenomyeloneuropathy (AMN)  
-- Siemerling-Creutzfeldt Disease  
-- Schilder's Disease
-
-**Signs & Symptoms:**  
-- Progressive loss of myelin in the central nervous system
-- Adrenal gland dysfunction (Addison's disease)
-- Behavioral changes
-- Vision and hearing impairment
-- Difficulty walking and weakness
-- Seizures
-
-**Causes:**  
-X-ALD is caused by mutations in the ABCD1 gene located on the X chromosome, which is responsible for producing a protein that helps break down VLCFAs.
-
-**Affected Populations:**  
-X-ALD primarily affects males, though female carriers can exhibit milder symptoms. The onset can range from childhood to adulthood.
-
-**Disorders with Similar Symptoms:**  
-- Multiple Sclerosis  
-- Addison's Disease  
-- Other Leukodystrophies  
-- Hereditary Spastic Paraplegia
-
-**Diagnosis:**  
-- Blood tests measuring VLCFA levels
-- Genetic testing for ABCD1 mutations
-- Adrenal function tests
-- Brain MRI to detect demyelination
-
-**Standard Therapies:**  
-- Lorenzo's Oil (a mixture of fats aiming to normalize VLCFA levels)
-- Adrenal hormone replacement
-- Hematopoietic stem cell transplantation (HSCT) for early-stage cerebral X-ALD
-- Physical therapy
-- Symptomatic and supportive treatments
-
-**Clinical Trials and Studies:**  
-Information not available
-
-**References:**
-Information not available
-
-**Programs & Resources:**  
-- The United Leukodystrophy Foundation (ULF)
-- The Myelin Project
-- ALD Connect
-- National Organization for Rare Disorders (NORD)
-
-**Complete Report:**  
-Information not available
+# X-Linked Adrenoleukodystrophy
+
+### Disease Overview
+X-Linked Adrenoleukodystrophy (X-ALD) is a rare genetic disorder characterized by the progressive accumulation of very long-chain fatty acids (VLCFAs) in the body, leading to neurological and endocrine dysfunction. The disorder primarily affects the nervous system, adrenal glands, and white matter of the brain.
+
+### Disease Category
+Genetic Disorder
+Metabolic Disorder
+Neurological Disorder
+X-Linked Inherited Condition
+
+### Synonyms
+- Adrenomyeloneuropathy (AMN)
+- Siemerling-Creutzfeldt Disease
+- Schilder's Disease
+- X-ALD
+
+### Signs & Symptoms
+Neurological Symptoms:
+- Progressive demyelination
+- Cognitive decline
+- Seizures
+- Vision and hearing impairment
+- Muscle weakness
+- Coordination difficulties
+- Peripheral neuropathy
+
+Endocrine Symptoms:
+- Adrenal insufficiency
+- Hormonal imbalances
+- Addison's disease-like symptoms
+
+Psychological Symptoms:
+- Behavioral changes
+- Learning difficulties
+- Developmental regression
+
+### Causes
+Genetic Mechanism:
+- Mutations in the ABCD1 gene located on the X chromosome
+- Impaired function of the ALDP (adrenoleukodystrophy protein)
+- Inability to break down very long-chain fatty acids
+- X-linked recessive inheritance pattern
+
+### Affected Populations
+- Primarily affects males
+- Carrier females may exhibit mild symptoms
+- Estimated prevalence: 1 in 17,000 male births
+- Onset can range from early childhood to adulthood
+
+### Disorders with Similar Symptoms
+- Multiple Sclerosis
+- Addison's Disease
+- Hereditary Spastic Paraplegia
+- Other Leukodystrophies
+- Cerebral Palsy
+- Mitochondrial Disorders
+
+### Diagnosis
+Diagnostic Approaches:
+- Comprehensive medical history
+- Physical examination
+- Blood tests measuring VLCFA levels
+- Genetic testing for ABCD1 mutations
+- Adrenal function tests
+- Brain and spinal MRI
+- Neurological assessments
+- Nerve conduction studies
+
+### Standard Therapies
+Treatment Options:
+- Lorenzo's Oil to potentially slow VLCFA accumulation
+- Adrenal hormone replacement therapy
+- Hematopoietic stem cell transplantation (HSCT)
+- Physical and occupational therapy
+- Symptomatic management
+- Nutritional support
+- Psychological counseling
+
+### Clinical Trials and Studies
+Current research focuses on:
+- Gene therapy
+- Enzyme replacement strategies
+- Advanced stem cell treatments
+- Molecular mechanisms of VLCFA accumulation
+
+### References
+- National Institutes of Health (NIH)
+- Genetics Home Reference
+- Journal of Inherited Metabolic Disease
+- American Journal of Medical Genetics
+
+### Programs & Resources
+- United Leukodystrophy Foundation (ULF)
+- The Myelin Project
+- ALD Connect
+- National Organization for Rare Disorders (NORD)
+- Genetic Support Foundation
+
+### Complete Report
+A comprehensive medical report should be obtained through specialized genetic and neurological consultations, including detailed genetic counseling and long-term management strategies.
